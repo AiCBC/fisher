@@ -1,4 +1,3 @@
-// 页脚鱼
 fish();
 function fish() {
     return (
